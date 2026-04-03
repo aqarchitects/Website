@@ -1,0 +1,2183 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hospitality",
+      "slug": "hospitality",
+      "description": "Hospitality projects"
+    },
+    {
+      "id": 2,
+      "name": "Mixed-Use",
+      "slug": "mixed-use",
+      "description": "Mixed-Use projects"
+    },
+    {
+      "id": 3,
+      "name": "Commercial",
+      "slug": "commercial",
+      "description": "Commercial projects"
+    },
+    {
+      "id": 4,
+      "name": "Administrative",
+      "slug": "administrative",
+      "description": "Administrative projects"
+    },
+    {
+      "id": 5,
+      "name": "Residential",
+      "slug": "residential",
+      "description": "Residential projects"
+    }
+  ],
+
+  "services": [
+    {
+      "id": 1,
+      "name": "Architecture",
+      "slug": "architecture"
+    },
+    {
+      "id": 2,
+      "name": "Interior Design",
+      "slug": "interior-design"
+    },
+    {
+      "id": 3,
+      "name": "Master Planning",
+      "slug": "master-planning"
+    }
+  ],
+
+  "scopes": [
+    {
+      "id": 1,
+      "name": "Concept Design",
+      "slug": "concept-design"
+    },
+    {
+      "id": 2,
+      "name": "Design Development",
+      "slug": "design-development"
+    },
+    {
+      "id": 3,
+      "name": "Full Scope",
+      "slug": "full-scope"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Al Mina Resort",
+      "slug": "al-mina-resort",
+      "categoryId": 1,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2025,
+      "client": "",
+      "plotArea": "32,000 sqm",
+      "totalArea": "",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Al Mina Beach Resort is a boutique beachfront retreat in the heart of Doha, Qatar, offering a refined yet relaxed hospitality experience. The resort features 25 villa suites and 91 guest rooms, positioned along a pristine coastline with sweeping views of the Arabian Gulf and Doha’s skyline. Designed to blend minimalist architecture with traditional charm, the property combines whitewashed exteriors, clean modern lines, local stone textures, and earthy textiles that reflect the city’s heritage. Interiors incorporate handwoven fabrics, layered linens, and authentic materials with a contemporary touch."
+        },
+        {
+          "type": "paragraph",
+          "content": "The resort emphasizes leisure and wellbeing, with amenities including an infinity pool, fully equipped gym, holistic wellness center, spa, and business facilities. The beach and pool area forms the social heart of the resort, complemented by shaded pergolas and tranquil lounging spaces. Dining venues offer reimagined local and international cuisine focused on fresh, seasonal ingredients. Overall, Al Mina delivers a sophisticated yet intimate escape centered on relaxation, design, and lifestyle."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/almina/thumbnail.webp"
+        },
+        "hero": "/images/projects/almina/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/thumbnail.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/1.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/2.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/3.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/4.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/5.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/6.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/7.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/8.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/9.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 10,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/10.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 11,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/11.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 12,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/12.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          },
+          {
+            "id": 13,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/almina/13.webp"
+            },
+            "caption": "almina resort",
+            "alt": "almina resort"
+          }
+        ]
+      },
+
+      "serviceIds": [1, 3],
+      "scopeIds": [1, 2],
+      "tags": ["resort", "luxury", "sustainable"],
+
+      "seo": {
+        "title": "Al Mina Resort - Award-Winning Design | AQ Architecture",
+        "description": "Explore our award-winning Al Mina Resort project in Dubai",
+        "keywords": ["resort design", "Dubai architecture", "luxury resort"]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Mleiha Eco-Lodge",
+      "slug": "mleiha-ecolodge",
+      "categoryId": 1,
+      "status": "",
+      "featured": false,
+
+      "location": "Sharjah, UAE",
+      "year": 2020,
+      "client": "",
+      "plotArea": "150,000 sqm",
+      "totalArea": "",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Mleiha Desert Resort is a luxury eco-tourism destination integrated within the broader Mleiha Eco-Tourism and Archaeological Project in Sharjah. Located deep within the desert landscape, the resort spans approximately 150,000 square meters and comprises 30 private villas across four distinct models. Its architectural concept draws heavily from traditional Bedouin heritage, with tent-inspired structures and natural materials that reflect the cultural identity and desert lifestyle of the region."
+        },
+        {
+          "type": "paragraph",
+          "content": "The all-inclusive resort offers secluded villas with private pools and sun-lounging areas, immersed in expansive sand dunes and dramatic desert scenery. Amenities include a main restaurant, health club, and an oasis zone showcasing native plants and wildlife. Guests can engage in curated experiences such as camel caravans, stargazing, desert expeditions, and exploration of nearby mountains and archaeological sites. Positioned as a key component of Sharjah’s tourism strategy, the resort enhances the emirate’s profile as a global destination, blending heritage, nature, and immersive desert hospitality."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/mleiha/thumbnail.webp"
+        },
+        "hero": "/images/projects/mleiha/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/thumbnail.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/1.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/2.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/3.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/4.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/5.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/6.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/7.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/8.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mleiha/9.webp"
+            },
+            "caption": "mleiha ecolodge",
+            "alt": "mleiha ecolodge"
+          }
+        ]
+      },
+
+      "serviceIds": [1, 3],
+      "scopeIds": [1, 2],
+      "tags": [],
+
+      "seo": {
+        "title": "Mleiha Eco-Lodge - Award-Winning Design | AQ Architecture",
+        "description": "",
+        "keywords": ["construction", "architecture", "design"]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Kattara Peaks",
+      "slug": "kattara-peaks",
+      "categoryId": 1,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2024,
+      "client": "",
+      "plotArea": "31,000 sqm",
+      "totalArea": "",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Katara Cultural Village Peaks Resort is part of the Katara Hills development within Katara Cultural Village in Doha. The resort enjoys an elevated, panoramic position overlooking the cultural district and the Arabian Gulf. Its architectural concept reinterprets traditional Qatari heritage through a contemporary lens, drawing inspiration from the layered triangular forms of traditional Bedouin tents and integrating them with lush greenery, palm trees, and landscaped hills."
+        },
+        {
+          "type": "paragraph",
+          "content": "Spanning approximately 31,000 square meters, the resort offers 40 hotel units across three distinct models. Designed as an integrated retreat, it provides spacious villas and guest units with sunlit terraces and scenic views. The property takes advantage of its hilltop setting, where rolling green landscapes blend seamlessly with the Gulf horizon. Built using wood and natural materials, the villas combine modern comfort with traditional character."
+        },
+        {
+          "type": "paragraph",
+          "content": "Facilities include a main restaurant, health club, and central swimming pool area, along with leisure, wellness, and stargazing activities. The resort is positioned as a key addition to Doha’s tourism landscape, promoting Qatari culture, heritage, and nature-based luxury hospitality."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/kattarapeaks/thumbnail.webp"
+        },
+        "hero": "/images/projects/kattarapeaks/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/thumbnail.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/1.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/2.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/3.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/4.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/5.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/6.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/7.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/kattarapeaks/8.webp"
+            },
+            "caption": "kattara peaks resort",
+            "alt": "kattara peaks resort"
+          }
+        ]
+      },
+
+      "serviceIds": [1, 3],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "Kattara Peaks - Award-Winning Design | AQ Architecture",
+        "description": "Explore our award-winning Kattara Peaks project in Dubai",
+        "keywords": [
+          "architecture",
+          "architecture design",
+          "dubai architecture",
+          "hospitality"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Waterfront Residential 10",
+      "slug": "waterfront-residential-10",
+      "categoryId": 2,
+      "status": "",
+      "featured": false,
+
+      "location": "Lusail, Doha",
+      "year": 2024,
+      "client": "",
+      "plotArea": "5,040 sqm",
+      "totalArea": "30,404 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "The WR-10 Waterfront Tower is a sophisticated example of modern mixed-use architecture, characterized by a rhythmic composition of stacked, interlocking volumes that create a dynamic and soaring silhouette against the coastal horizon. The building’s aesthetic is defined by its monolithic stone-clad facades, which are punctuated by expansive floor-to-ceiling glazing and deep-set private balconies that offer panoramic views of the sea and the surrounding cityscape. A dramatic, monumental concrete frame crowns the structure, providing a sculptural finish to the rooftop while integrating linear pergolas that shade high-end residential amenities. At the base, the tower transitions into a pedestrian-friendly podium featuring a double-height glass lobby and expansive outdoor terraces with infinity-edge pools, blending private luxury with an active beachfront lifestyle. The disciplined palette of textured stone, dark metal accents, and transparent glass ensures a timeless, elegant presence that feels both grounded and weightless."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/waterfront/thumbnail.webp"
+        },
+        "hero": "/images/projects/waterfront/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/thumbnail.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/1.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/2.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/3.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/4.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/5.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/waterfront/6.webp"
+            },
+            "caption": "waterfront 10 in doha",
+            "alt": "waterfront 10 in doha"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "Waterfront Residential 10 | AQ Architecture",
+        "description": "Explore our award-winning Waterfront Residential project in UAE",
+        "keywords": [
+          "design",
+          "architecture",
+          "architecture design",
+          "Mixed-Use tower"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "The Canyon",
+      "slug": "the-canyon",
+      "categoryId": 3,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2024,
+      "client": "",
+      "plotArea": "2,000 sqm",
+      "totalArea": "2,050 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Inspired by the sculptural rock formations of the qatari landscape, results of natural processes of erosion, cracking, layering and continuous wind choreography, two rock fragments rise from the ground… almost colliding… separated only by a narrow crack. A delicate ray of light filters through from above bringing light into this massive canyon. The monumental rocks seem eroded by wind and water, creating a space of in-between. A liminal space where one can see glimpses of the water beyond. As one moves through it towards the water, the space unfolds and opens up in the grand plaza… finally one can enjoy the spectacular view of the water… a celebration and a prize. The architectural experience of the project is that of intrigue and surprise. an experience that celebrates Qatar's natural landscape and at the same time elevates the processional nature of dining."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/canyon/thumbnail.webp"
+        },
+        "hero": "/images/projects/canyon/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/thumbnail.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/1.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/2.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/3.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/4.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/5.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/6.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/7.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/8.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/9.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          },
+          {
+            "id": 10,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/canyon/10.webp"
+            },
+            "caption": "the canyon restaurant",
+            "alt": "the canyon restaurant"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "The Canyon Restaurant | AQ Architecture",
+        "description": "Explore our award-winning The Canyon Restaurant project in Qatar",
+        "keywords": []
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Polaris Office Building",
+      "slug": "polaris-office-building",
+      "categoryId": 4,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2025,
+      "client": "",
+      "plotArea": "1,800 sqm",
+      "totalArea": "5,650 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "This office building is conceived as a composition of dynamic horizontal volumes that convey a strong sense of movement and forward momentum. Sweeping cantilevers, sculpted edges, and continuous glazing bands create fluid transitions between solid and void, while the crisp white envelope emphasizes clarity and precision. The layered façade and recessed ground level enhance the perception of lightness, allowing the upper masses to appear as if they are gliding above the street. Clear modern lines, integrated shading elements, and panoramic transparency establish a contemporary identity that is both elegant and energetic, reflecting a workplace designed for innovation and progress."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/polaris/thumbnail.webp"
+        },
+        "hero": "/images/projects/polaris/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/polaris/thumbnail.webp"
+            },
+            "caption": "polaris office building",
+            "alt": "polaris office building"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/polaris/1.webp"
+            },
+            "caption": "polaris office building",
+            "alt": "polaris office building"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/polaris/2.webp"
+            },
+            "caption": "polaris office building",
+            "alt": "polaris office building"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/polaris/3.webp"
+            },
+            "caption": "polaris office building",
+            "alt": "polaris office building"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/polaris/4.webp"
+            },
+            "caption": "polaris office building",
+            "alt": "polaris office building"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1, 2],
+      "tags": [],
+
+      "seo": {
+        "title": "Polaris Office Building | AQ Architecture",
+        "description": "Explore our award-winning Polaris Office Building project in Qatar",
+        "keywords": ["architecture", "design", "office building"]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Private Residence",
+      "slug": "private-residence-beirut",
+      "categoryId": 5,
+      "status": "",
+      "featured": false,
+
+      "location": "Beirut, Lebanon",
+      "year": 2025,
+      "client": "",
+      "plotArea": "4,800 sqm",
+      "totalArea": "930 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "This architectural design masterfully blends clean, minimal modernism with its arid environment, utilizing long horizontal masses and a restrained material palette to create a structure that feels like a natural extension of the desert. The boundary between the interior and exterior is virtually erased through the use of expansive glass facades, allowing the rugged landscape to flow directly into the living spaces and providing panoramic, unobstructed views of the horizon. Outdoor living is prioritized via spacious, cantilevered terraces and a sunken pool area, offering pleasurable activity zones that invite residents to engage with the surrounding flora. By integrating native desert vegetation right up to the building's edge, the design ensures that every room remains deeply connected to the textures and rhythms of the natural world."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/beirut/thumbnail.webp"
+        },
+        "hero": "/images/projects/beirut/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/thumbnail.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/1.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/2.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/3.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/4.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/5.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/6.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/7.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/8.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/9.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 10,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/10.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 11,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/11.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 12,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/12.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 13,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/13.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 14,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/14.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 15,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/15.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 16,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/16.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 17,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/17.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          },
+          {
+            "id": 18,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/beirut/18.webp"
+            },
+            "caption": "private residence beirut",
+            "alt": "private residence beirut"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "Private Residence Beirut | AQ Architecture",
+        "description": "Explore our award-winning Private Residence Beirut project in Lebanon",
+        "keywords": ["architecture", "design", "private residence", "beirut"]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Private Residence",
+      "slug": "private-residence-doha",
+      "categoryId": 5,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2025,
+      "client": "",
+      "plotArea": "1,700 sqm",
+      "totalArea": "2,330 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "This architectural composition prioritizes privacy and enclosure, utilizing a series of interlocking heavy masses cladded in refined stone to create a sense of grounded permanence. Inspired by Arabian tradition, the design features sophisticated screening elements and wooden louvers that provide shade and seclusion while filtering natural light into the interior. These contemporary interpretations of the mashrabiya offer a delicate contrast to the solid, monolithic volumes, ensuring a private sanctuary that remains connected to its cultural roots. Touches of warm wood and intricate geometric patterns break up the stone surfaces, adding a layer of tactile detail to the clean, modern geometry."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/doha_1/thumbnail.webp"
+        },
+        "hero": "/images/projects/doha_1/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/thumbnail.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/1.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/2.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/3.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/4.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/5.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/6.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_1/7.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1, 2],
+      "tags": [],
+
+      "seo": {
+        "title": "Private Residence Doha | AQ Architecture",
+        "description": "Explore our award-winning Private Residence Doha project in Qatar",
+        "keywords": [
+          "architecture design",
+          "architecture",
+          "private residence",
+          "doha"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Private Residence",
+      "slug": "private-residence-doha-2",
+      "categoryId": 5,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2025,
+      "client": "",
+      "plotArea": "960 sqm",
+      "totalArea": "1,150 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "This house is designed following a minimal modern style, characterized by clean, crisp white cantilevered planes that create a sense of weightless layering. This utilization of deep overhangs and cantilevered planes creates expansive rooftop terraces, shaded outdoor spaces that serve as a transition to a private, sun-drenched swimming pool. The residence is defined by its transparency, utilizing floor-to-ceiling glass curtain walls to create a seamless visual continuity between the refined interior and the lush outdoor environment. Every element, from the monumental double-height entrance to the deep overhangs, is designed to emphasize a horizontal orientation that feels both expansive and precise, while maintaining the home’s sharp, contemporary silhouette."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/doha_2/thumbnail.webp"
+        },
+        "hero": "/images/projects/doha_2/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/thumbnail.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/1.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/2.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/3.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/4.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/5.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/6.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/7.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_2/8.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1, 2],
+      "tags": [],
+
+      "seo": {
+        "title": "Private Residence Doha | AQ Architecture",
+        "description": "Explore our award-winning Private Residence Doha project in Qatar",
+        "keywords": [
+          "architecture design",
+          "architecture",
+          "private residence",
+          "doha"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Private Residence",
+      "slug": "private-residence-interior-doha-3",
+      "categoryId": 5,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2024,
+      "client": "",
+      "plotArea": "",
+      "totalArea": "2,400 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "This interior design is defined by a contemporary luxury style that prioritizes a harmonious flow between architectural form and bespoke furnishing. Central to the aesthetic is the use of fluid, sweeping lines that bridge the transition from the floor to the furniture; creating a unified sense of movement throughout the entire house. The material palette is a disciplined blend of high-end textures, where the cool permanence of polished marble and stone is softened by rich wood veneers, plush upholstery, and translucent glass. This interplay of hard and soft surfaces, combined with the rhythmic verticality of the architectural partitions, large-scale windows, verdant indoor plants that blur the line between the opulent interior and the outdoors, all ensure a space that feels both monumentally grand and gracefully interconnected."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/doha_3/thumbnail.webp"
+        },
+        "hero": "/images/projects/doha_3/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_3/thumbnail.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_3/1.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_3/2.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_3/3.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/doha_3/4.webp"
+            },
+            "caption": "private residence doha",
+            "alt": "private residence doha"
+          }
+        ]
+      },
+
+      "serviceIds": [2],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "Private Residence Doha | AQ Architecture",
+        "description": "Explore our award-winning Private Residence Doha project in Qatar",
+        "keywords": [
+          "architecture design",
+          "architecture",
+          "private residence",
+          "doha"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Private Residence",
+      "slug": "private-residence-gewan",
+      "categoryId": 5,
+      "status": "",
+      "featured": false,
+
+      "location": "Gewan Island, Qatar",
+      "year": 2024,
+      "client": "",
+      "plotArea": "2,400 sqm",
+      "totalArea": "3,000 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Defined by a language of pure, minimal lines, this contemporary architectural piece seamlessly merges indoor and outdoor realms to create a sanctuary of calmness and light. The design utilizes horizontal slabs and expansive glass surfaces to frame magnificent sea views, while the careful integration of geometric screens offers a refined nod to Arabian aesthetics and a celebratory play of shadows. Nature is treated as a fundamental building element rather than a mere backdrop; cascading water features, lush greenery, and the constant presence of the garden and pool interact to provide natural ventilation and a serene, meditative atmosphere. By dissolving the threshold between spaces with wide sliding glass panels, the house ensures a continuous journey where minimal materials and a spacious, open layout culminate in a uniquely quiet and relaxing experience."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/gewan/thumbnail.webp"
+        },
+        "hero": "/images/projects/gewan/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/thumbnail.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/1.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/2.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/3.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/4.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/5.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/6.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/7.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/8.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/9.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 10,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/10.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 11,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/11.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          },
+          {
+            "id": 12,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/gewan/12.webp"
+            },
+            "caption": "private residence gewan",
+            "alt": "private residence gewan"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "Private Residence Gewan | AQ Architecture",
+        "description": "Explore our award-winning Private Residence Gewan project in Qatar",
+        "keywords": [
+          "architecture design",
+          "architecture",
+          "private residence",
+          "gewan"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Marina Marine Services HQ",
+      "slug": "marina-marine-services-hq",
+      "categoryId": 5,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2023,
+      "client": "",
+      "plotArea": "",
+      "totalArea": "1,600 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "The interior design for the Marina Marine Services office building is a masterclass in contemporary corporate luxury, blending professional atmosphere with refined comfort. The overall style is defined by its efficient use of rectilinear geometry, where double-height volumes and expansive glazing create a sense of transparency and prestige. A professional yet comfortable atmosphere is achieved through a carefully curated palette of materials: book-matched polished marble floors and wall claddings provide a timeless foundation, while warm timber slats and fluted gold metallic features add layers of tactile richness and rhythmic texture. The design prioritizes spatial continuity and light, offering a sophisticated interplay of light and shadow that enhances the architectural depth. Throughout the different workspace and meeting areas, the use of fluid, organic lines, curved seating modules and intricate geometric privacy screens soften the building’s sharp structural lines and ensures that the environment is as inviting as it is impressive."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/marinamarine/thumbnail.webp"
+        },
+        "hero": "/images/projects/marinamarine/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/thumbnail.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/1.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/2.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/3.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/4.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/5.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/6.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/7.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/8.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/9.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 10,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/10.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          },
+          {
+            "id": 11,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/marinamarine/11.webp"
+            },
+            "caption": "marina marine services interior",
+            "alt": "marina marine services interior"
+          }
+        ]
+      },
+
+      "serviceIds": [2],
+      "scopeIds": [1, 2],
+      "tags": [],
+
+      "seo": {
+        "title": "Marina Marine Services Interior | AQ Architecture",
+        "description": "Explore our award-winning Marina Marine Services Interior project",
+        "keywords": [
+          "interior design",
+          "architecture",
+          "marina marine services"
+        ]
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Residential Building",
+      "slug": "residential-building",
+      "categoryId": 2,
+      "status": "",
+      "featured": false,
+
+      "location": "Energy City, Qatar",
+      "year": 2023,
+      "client": "",
+      "plotArea": "20,000 sqm",
+      "totalArea": "67,000 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Situated within the prestigious Lusail City, this high-end residential and retail destination offers an iconic modern living experience that capitalizes on its prime location near the Energy City business hub and scenic Lusail Wadi Park. The development, spanning a 19,907 m² plot, features two U-shaped buildings atop a retail podium, strategically designed with expansive glazed walls to provide residents with unobstructed sea views and immediate connectivity to Doha's international technological showcases. Beyond its 51,000 m² of gross floor area and dedicated basement services, the project integrates state-of-the-art amenities—including a health club, nursery, and luxury retail—with meticulously planned interior circulations and high-quality finishes. The essence of the development is defined by a seamless blend of sophisticated indoor spaces and lushly landscaped courtyards and podiums, inviting guests and residents to embrace an exquisite outdoor lifestyle throughout the year."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/ecq/thumbnail.webp"
+        },
+        "hero": "/images/projects/ecq/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/thumbnail.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/1.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/2.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/3.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/4.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/5.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/6.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/7.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/8.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/ecq/9.webp"
+            },
+            "caption": "ecq residential building",
+            "alt": "ecq residential building"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [1],
+      "tags": [],
+
+      "seo": {
+        "title": "Project 13 | AQ Architecture",
+        "description": "",
+        "keywords": []
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Centro Mall",
+      "slug": "centro-mall",
+      "categoryId": 3,
+      "status": "",
+      "featured": false,
+
+      "location": "Doha, Qatar",
+      "year": 2020,
+      "client": "",
+      "plotArea": "38,500 sqm",
+      "totalArea": "19,000 sqm",
+
+      "description": [
+        {
+          "type": "paragraph",
+          "content": "Centro Mall is a signature 38,500 m2 mixed-use development situated on the Al-Khor Coastal Highway, designed as Doha’s premier outdoor flagship destination for luxury retail, recreation, and commerce. The architectural language is defined by elegant, straight lines, light-colored natural stone, and expansive transparent glass, creating a contemporary aesthetic that responds to Qatar’s future-forward vision. The project is organized around a central plaza and a continuous landscaped pedestrian promenade, inspired by iconic global shopping districts, which seamlessly integrates over 42 international stores, a 10,000 m2 hypermarket, and state-of-the-art cinemas. Unique functional elements, such as a hanging running track and a sophisticated streetscape filled with lush greenery and shaded seating, promote a dynamic, year-round outdoor experience. Strategically connected to Lusail City and major residential communities, the design ensures fluid accessibility through multiple grand entrances and dedicated drop-off zones, establishing the mall as a sophisticated haven for international fashion, culinary expertise, and elite leisure."
+        }
+      ],
+
+      "images": {
+        "thumbnail": {
+          "small": "",
+          "medium": "",
+          "large": "/images/projects/mall/thumbnail.webp"
+        },
+        "hero": "/images/projects/mall/thumbnail.webp",
+        "gallery": [
+          {
+            "id": 0,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/thumbnail.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 1,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/1.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 2,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/2.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 3,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/3.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 4,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/4.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 5,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/5.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 6,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/6.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 7,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/7.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 8,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/8.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 9,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/9.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          },
+          {
+            "id": 10,
+            "sizes": {
+              "small": "",
+              "medium": "",
+              "large": "/images/projects/mall/10.webp"
+            },
+            "caption": "centro mall",
+            "alt": "centro mall"
+          }
+        ]
+      },
+
+      "serviceIds": [1],
+      "scopeIds": [3],
+      "tags": [],
+
+      "seo": {
+        "title": "Centro Mall | AQ Architecture",
+        "description": "Explore our award-winning Centro Mall project in Qatar",
+        "keywords": []
+      },
+
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    }
+  ]
+}
