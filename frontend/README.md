@@ -1,4 +1,4 @@
-# AQ-Design
+# AQA - Architectural Design Consultancy
 
 A modern, SEO-optimized React website built with Vite, Tailwind CSS, and React Router. Designed to convert Figma designs to code with support for RTL/LTR languages.
 
