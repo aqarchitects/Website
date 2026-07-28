@@ -2,7 +2,7 @@
  * LoadingFallback Component
  * 
  * A loading spinner/fallback component for React.lazy() Suspense boundaries.
- * Displays a centered loading spinner with the AG Design branding.
+ * Displays a centered loading spinner with the AQA Design branding.
  * 
  * @component
  */

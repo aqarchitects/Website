@@ -44,7 +44,7 @@ const Header = () => {
           <Link to="/" className="z-50">
             <img
               src="/logo/logo.svg"
-              alt="AG Design Logo"
+              alt="AQA Design Logo"
               className="h-12 w-auto"
             />
           </Link>
