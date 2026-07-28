@@ -1,8 +1,8 @@
 import { Helmet } from 'react-helmet-async';
 
 const SEO = ({ 
-  title = 'AG-Design',
-  description = 'AG-Design - Professional Design Services',
+  title = 'AQA - Architectural Design Consultancy',
+  description = 'AQ Aachitects - Architectural Design Consultancy',
   keywords = 'design, web design, graphic design',
   ogImage = '/og-image.jpg',
   ogType = 'website',

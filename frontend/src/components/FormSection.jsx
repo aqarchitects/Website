@@ -61,12 +61,10 @@ const FormSection = () => {
 
             {/* 2. Description */}
             <p className="text-sm sm:text-base lg:text-base font-normal leading-relaxed max-w-3xl text-white">
-              <strong>AQ Design House ® Customer support team</strong> Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-              minim Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-              do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim :
+              <strong>AQ Design House ® Customer support team</strong>Hello,
+              We’d love to hear from you. Whether you have a question, a project
+              in mind, or just want to say hello, drop us a line and our team
+              will get back to you as soon as possible.
             </p>
 
             {/* 3. Form */}
