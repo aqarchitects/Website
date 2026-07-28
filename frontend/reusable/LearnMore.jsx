@@ -52,7 +52,7 @@
  * - Primary color should be defined in your Tailwind config
  * 
  * @version 1.0.0
- * @author AG Design Team
+ * @author AQA Design Team
  * @license MIT
  */
 

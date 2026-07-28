@@ -64,7 +64,7 @@
  * - Requires react-router-dom if using href prop
  * 
  * @version 1.0.0
- * @author AG Design Team
+ * @author AQA Design Team
  * @license MIT
  */
 
