@@ -69,8 +69,8 @@ const Home = () => {
   return (
     <>
       <SEO
-        title="Home - AG Design"
-        description="Welcome to AG Design - Your creative design partner"
+        title="Home - AQ Architects"
+        description="Welcome to AQ Architects - Your creative design partner"
       />
 
       {/* Header with transparent background and hamburger menu */}

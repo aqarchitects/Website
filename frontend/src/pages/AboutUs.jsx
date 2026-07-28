@@ -20,8 +20,8 @@ const AboutUs = () => {
   return (
     <>
       <SEO
-        title="About Us - AG Design"
-        description="Learn more about AG Design and our team"
+        title="About Us - AQ Architects"
+        description="Learn more about AQ Architects and our team"
       />
       <Header />
 

@@ -7,8 +7,8 @@ const News = () => {
   return (
     <>
       <SEO
-        title="News - AG Design"
-        description="Stay updated with the latest news from AG Design"
+        title="News - AQ Architects"
+        description="Stay updated with the latest news from AQ Architects"
       />
       <Header />
 

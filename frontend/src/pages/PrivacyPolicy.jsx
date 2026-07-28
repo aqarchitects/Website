@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
   return (
     <>
       <SEO
-        title="Privacy Policy - AG Design"
+        title="Privacy Policy - AQ Architects"
         description="Read our privacy policy and data protection information"
       />
       <Header />
@@ -51,7 +51,7 @@ const PrivacyPolicy = () => {
                   1. Introduction
                 </h2>
                 <p className="text-gray-light leading-relaxed">
-                  At AG Design (AQ Architects), we are committed to protecting
+                  At AQ Architects, we are committed to protecting
                   your privacy and personal information. This Privacy Policy
                   explains how we collect, use, disclose, and safeguard your
                   information when you visit our website or use our services.
@@ -374,9 +374,9 @@ const PrivacyPolicy = () => {
                   data practices, please contact us:
                 </p>
                 <div className="text-gray-light space-y-1 ml-4">
-                  <p>AG Design (AQ Architects)</p>
+                  <p>AQA Design (AQ Architects)</p>
                   <p>Doha, Qatar</p>
-                  <p>Email: privacy@agdesign.com</p>
+                  <p>Email: privacy@aq-architects.com</p>
                   <p>Phone: +974 XXXX XXXX</p>
                 </div>
               </section>

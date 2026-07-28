@@ -15,7 +15,7 @@ const TermsOfService = () => {
   return (
     <>
       <SEO
-        title="Terms of Service - AG Design"
+        title="Terms of Service - AQ Architects"
         description="Read our terms of service and conditions"
       />
       <Header />
@@ -51,7 +51,7 @@ const TermsOfService = () => {
                   1. Introduction
                 </h2>
                 <p className="text-gray-light leading-relaxed">
-                  Welcome to AG Design (AQ Architects). These Terms of Service
+                  Welcome to AQA Design (AQ Architects). These Terms of Service
                   ("Terms") govern your use of our website and services. By
                   accessing or using our services, you agree to be bound by
                   these Terms. If you do not agree with any part of these Terms,
@@ -72,7 +72,7 @@ const TermsOfService = () => {
                   2. Services
                 </h2>
                 <p className="text-gray-light leading-relaxed">
-                  AG Design provides architectural design, interior design,
+                  AQ Architects provides architectural design, interior design,
                   landscape architecture, and related consulting services. The
                   scope of services will be defined in individual project
                   agreements and proposals.
@@ -164,9 +164,9 @@ const TermsOfService = () => {
                 </h2>
                 <p className="text-gray-light leading-relaxed">
                   All designs, drawings, specifications, and other materials
-                  created by AG Design remain our intellectual property until
+                  created by AQ Architects remain our intellectual property until
                   full payment is received. Upon full payment, clients receive a
-                  license to use the designs for the specific project. AG Design
+                  license to use the designs for the specific project. AQ Architects
                   retains the right to use project images and information for
                   marketing purposes unless otherwise agreed.
                 </p>
@@ -187,7 +187,7 @@ const TermsOfService = () => {
                 <p className="text-gray-light leading-relaxed">
                   Project timelines are estimates and may be subject to change
                   due to unforeseen circumstances, client delays, or changes in
-                  project scope. AG Design will make reasonable efforts to meet
+                  project scope. AQ Architects will make reasonable efforts to meet
                   agreed timelines but is not liable for delays beyond our
                   control.
                 </p>
@@ -226,7 +226,7 @@ const TermsOfService = () => {
                   8. Limitation of Liability
                 </h2>
                 <p className="text-gray-light leading-relaxed">
-                  AG Design's liability is limited to the fees paid for the
+                  AQ Architects's liability is limited to the fees paid for the
                   specific project. We are not liable for indirect, incidental,
                   or consequential damages. Clients are responsible for
                   obtaining necessary permits, approvals, and ensuring
@@ -249,7 +249,7 @@ const TermsOfService = () => {
                 <p className="text-gray-light leading-relaxed">
                   Either party may terminate the agreement with written notice.
                   Upon termination, the client is responsible for payment of all
-                  work completed to date. AG Design will deliver all completed
+                  work completed to date. AQ Architects will deliver all completed
                   work upon receipt of payment.
                 </p>
               </section>
@@ -304,7 +304,7 @@ const TermsOfService = () => {
                   12. Changes to Terms
                 </h2>
                 <p className="text-gray-light leading-relaxed">
-                  AG Design reserves the right to modify these Terms at any
+                  AQ Architects reserves the right to modify these Terms at any
                   time. Changes will be effective immediately upon posting to
                   our website. Continued use of our services constitutes
                   acceptance of modified Terms.
@@ -328,7 +328,7 @@ const TermsOfService = () => {
                   contact page or at:
                 </p>
                 <div className="text-gray-light space-y-1 ml-4">
-                  <p>AG Design (AQ Architects)</p>
+                  <p>AQA Design (AQ Architects)</p>
                   <p>Doha, Qatar</p>
                   <p>Email: info@aq-architects.com</p>
                 </div>

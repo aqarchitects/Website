@@ -27,8 +27,8 @@ const ContactUs = () => {
   return (
     <>
       <SEO
-        title="Contact Us - AG Design"
-        description="Get in touch with AG Design team"
+        title="Contact Us - AQ Architects"
+        description="Get in touch with AQ Architects team"
       />
       <Header />
 

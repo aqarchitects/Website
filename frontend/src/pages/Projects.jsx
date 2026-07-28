@@ -82,7 +82,7 @@ const Projects = () => {
   return (
     <>
       <SEO
-        title="Projects - AG Design"
+        title="Projects - AQ Architects"
         description="Explore our portfolio of creative design projects"
       />
       <Header />
